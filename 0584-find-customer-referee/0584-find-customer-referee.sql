@@ -1,5 +1,9 @@
 SELECT name
 FROM Customer 
-WHERE IFNULL(referee_id, -1) <> 2;
+WHERE COALESCE(referee_id, -1) <> 2;
+
+
+
+
 
 
