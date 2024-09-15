@@ -47,4 +47,16 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0455-assign-cookies) |
+## Math
+|  |
+| ------- |
+| [1761-count-sorted-vowel-strings](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/1761-count-sorted-vowel-strings) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1761-count-sorted-vowel-strings](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/1761-count-sorted-vowel-strings) |
+## Combinatorics
+|  |
+| ------- |
+| [1761-count-sorted-vowel-strings](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/1761-count-sorted-vowel-strings) |
 <!---LeetCode Topics End-->
