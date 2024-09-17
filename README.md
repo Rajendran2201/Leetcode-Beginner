@@ -26,6 +26,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0162-find-peak-element) |
 | [0455-assign-cookies](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0455-assign-cookies) |
+| [0496-next-greater-element-i](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0540-single-element-in-a-sorted-array) |
 ## Binary Search
 |  |
@@ -66,6 +67,7 @@
 | [0155-min-stack](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
@@ -81,4 +83,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0020-valid-parentheses) |
+## Hash Table
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
