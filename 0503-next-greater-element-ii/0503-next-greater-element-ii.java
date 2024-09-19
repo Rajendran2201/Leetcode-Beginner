@@ -3,15 +3,19 @@ class Solution {
         int[] res = new int[nums.length];
         int n = nums.length;
         Arrays.fill(res, -1);
-       for(int i=0; i<n; i++){
-        for(int j=1; j<n; j++){
-            int index = (i+j) % n;
-            if(nums[index] > nums[i]){
-                res[i] = nums[index];
-                break;
+        Stack<Integer> stack = new Stack<>();
+        for(int i=2*n-1; i>=0; i--){
+            int index = i % n;
+            while(!stack.isEmpty() && stack.peek() <= nums[index]){
+               stack.pop();
             }
+
+            if(!stack.isEmpty() && stack.peek() > nums[index]){
+                res[index] = stack.peek();
+            }
+            stack.push(nums[index]);
+
         }
-       }
         return res;
     }
 }
