@@ -27,6 +27,7 @@
 | [0162-find-peak-element](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0162-find-peak-element) |
 | [0455-assign-cookies](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0540-single-element-in-a-sorted-array) |
 ## Binary Search
 |  |
@@ -68,6 +69,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
 | ------- |
@@ -91,4 +93,5 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
