@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0042-trapping-rain-water) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0162-find-peak-element) |
@@ -40,6 +41,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0042-trapping-rain-water) |
 | [0455-assign-cookies](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
@@ -56,6 +58,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0042-trapping-rain-water) |
 | [1761-count-sorted-vowel-strings](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/1761-count-sorted-vowel-strings) |
 ## Combinatorics
 |  |
@@ -65,6 +68,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0232-implement-queue-using-stacks) |
@@ -92,6 +96,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
