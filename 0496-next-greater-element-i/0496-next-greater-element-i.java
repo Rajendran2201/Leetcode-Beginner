@@ -1,30 +1,26 @@
 class Solution {
     public int[] nextGreaterElement(int[] nums1, int[] nums2) {
-        
-        int[] ans = new int[nums1.length];
-        for(int i=0; i<nums1.length; i++){
-            ans[i] = findNGE(nums1[i], nums2);
-        }
-        return ans;
-    }
-    public int findNGE(int x, int[] nums){
         Stack<Integer> stack = new Stack<>();
-        for(int i=nums.length-1; i>=0; i--){
-            if(nums[i] == x){
-                while(true){
-                    if(stack.isEmpty()){
-                        return -1;
-                    }
-                    int max = stack.pop();
-                    if(max > x){
-                        return max;
-                    }
-                }
-                
-            }else{
-                stack.push(nums[i]);
+        Map<Integer, Integer> map = new HashMap<>();
+        for(int i=nums2.length-1; i>=0; i--){
+            int num = nums2[i];
+            int nge = -1;
+            while(!stack.isEmpty() && stack.peek() <= num){
+                stack.pop();
             }
+            if(!stack.isEmpty() && stack.peek() > num){
+                nge = stack.peek();
+            }else{
+                nge = -1;
+            }
+
+            map.put(num, nge);
+            stack.push(num);
         }
-        return -1;
+        int[] res = new int[nums1.length];
+        for(int i=0; i<nums1.length; i++){
+            res[i] = map.get(nums1[i]);
+        }
+        return res;
     }
 }
