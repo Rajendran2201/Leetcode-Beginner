@@ -112,4 +112,8 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0735-asteroid-collision) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
