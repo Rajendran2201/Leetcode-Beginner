@@ -1,4 +1,4 @@
-# Leetcode-Beginner
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Database
