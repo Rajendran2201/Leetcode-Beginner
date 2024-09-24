@@ -10,30 +10,20 @@
  */
 class Solution {
     public ListNode oddEvenList(ListNode head) {
-        if (head == null || head.next == null) return head;
-
-        ListNode oddhead = new ListNode(0); 
-        ListNode oddtail = oddhead;
-        ListNode evenhead =  new ListNode(0);
-        ListNode eventail = evenhead;
-        ListNode temp = head;
-        int count = 0;
-
-        while(temp != null){
-            if(count % 2 == 0){
-                eventail.next = temp;
-                eventail = eventail.next;
-            }else{
-                oddtail.next = temp;
-                oddtail = oddtail.next;
-            }
-            count++;
-            temp = temp.next;
-
+        if(head == null || head.next == null){
+            return head;
         }
-        // If you miss this, it will lead to cause a cycle in the LL
-        oddtail.next = null; // VERY IMPORTANT
-        eventail.next = oddhead.next;
-        return  evenhead.next;
+
+        ListNode odd = head; 
+        ListNode even = head.next;
+        ListNode evenhead = even;
+        while(even != null && even.next != null){
+            odd.next = even.next;
+            odd = odd.next;
+            even.next = odd.next;
+            even = even.next;
+        }
+        odd.next = evenhead;
+        return head;
     }
 }
