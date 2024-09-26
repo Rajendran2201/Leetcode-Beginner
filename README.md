@@ -62,6 +62,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0002-add-two-numbers) |
 | [1761-count-sorted-vowel-strings](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/1761-count-sorted-vowel-strings) |
 ## Dynamic Programming
 |  |
@@ -122,6 +123,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -134,6 +136,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0234-palindrome-linked-list) |
