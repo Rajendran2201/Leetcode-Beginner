@@ -80,6 +80,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0042-trapping-rain-water) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0232-implement-queue-using-stacks) |
@@ -143,4 +144,16 @@
 | [0021-merge-two-sorted-lists](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0234-palindrome-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
