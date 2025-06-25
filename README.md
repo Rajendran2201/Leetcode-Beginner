@@ -36,6 +36,7 @@
 | [0735-asteroid-collision](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0943-sum-of-subarray-minimums) |
 | [1031-add-to-array-form-of-integer](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/1031-add-to-array-form-of-integer) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1983-maximum-population-year](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/1983-maximum-population-year) |
 | [2227-sum-of-subarray-ranges](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/2227-sum-of-subarray-ranges) |
 ## Binary Search
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0455-assign-cookies) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 ## Sorting
 |  |
 | ------- |
@@ -71,6 +73,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0002-add-two-numbers) |
 | [1031-add-to-array-form-of-integer](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/1031-add-to-array-form-of-integer) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1761-count-sorted-vowel-strings](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/1761-count-sorted-vowel-strings) |
 ## Dynamic Programming
 |  |
