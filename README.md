@@ -26,6 +26,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0162-find-peak-element) |
@@ -53,6 +54,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0234-palindrome-linked-list) |
@@ -67,6 +69,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0455-assign-cookies) |
 ## Math
 |  |
