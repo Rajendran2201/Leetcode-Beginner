@@ -13,39 +13,49 @@
  *     }
  * }
  */
- 
 class Solution {
     public List<List<Integer>> levelOrder(TreeNode root) {
-        Queue<TreeNode> queue = new LinkedList<>();
         List<List<Integer>> ans = new ArrayList<>();
+        Queue<TreeNode> queue = new LinkedList<>();
 
-        // Edge case
+        // Edge case: when the tree is empty, return empty list
         if(root == null){
             return ans;
         }
+
+
+        // Add the root element to the queue
         queue.add(root);
 
+        // traverse the elements in the queue
         while(!queue.isEmpty()){
+            List<Integer> sublevel = new ArrayList<>();
             int levels = queue.size();
-            List<Integer> sublevels = new ArrayList<>();
+
+            // Add the left and right elements 
             for(int i=0; i<levels; i++){
                 TreeNode curr = queue.peek();
-
-                // adding left children to the queue
                 if(curr.left != null){
                     queue.add(curr.left);
                 }
-                // adding right children to the queue
                 if(curr.right != null){
                     queue.add(curr.right);
                 }
 
-                curr = queue.remove();
-                // creating sublists of each level
-                sublevels.add(curr.val);
+                curr = queue.poll();
+
+                // create sublevel list
+                sublevel.add(curr.val);
             }
-            ans.add(sublevels);
-        }
+
+            // add the sub level elements to the main list 
+            ans.add(sublevel);
+
+        }        
+
+        // return the list
         return ans;
+
+
     }
 }
