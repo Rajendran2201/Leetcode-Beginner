@@ -123,6 +123,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0020-valid-parentheses) |
+| [3396-valid-word](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/3396-valid-word) |
 ## Hash Table
 |  |
 | ------- |
