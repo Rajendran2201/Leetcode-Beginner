@@ -41,6 +41,7 @@
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1983-maximum-population-year](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/1983-maximum-population-year) |
 | [2227-sum-of-subarray-ranges](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/2227-sum-of-subarray-ranges) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -88,6 +89,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0943-sum-of-subarray-minimums) |
 | [1761-count-sorted-vowel-strings](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/1761-count-sorted-vowel-strings) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Combinatorics
 |  |
 | ------- |
