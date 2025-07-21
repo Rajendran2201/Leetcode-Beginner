@@ -75,6 +75,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0455-assign-cookies) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Math
 |  |
 | ------- |
@@ -136,6 +137,7 @@
 | [0141-linked-list-cycle](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0496-next-greater-element-i) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -183,6 +185,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0662-maximum-width-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -196,6 +199,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0662-maximum-width-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -210,6 +214,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0662-maximum-width-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -219,6 +224,7 @@
 | [0133-clone-graph](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0133-clone-graph) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0662-maximum-width-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Graph
 |  |
 | ------- |
