@@ -31,6 +31,7 @@
 | [0075-sort-colors](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0162-find-peak-element) |
 | [0455-assign-cookies](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0455-assign-cookies) |
@@ -136,6 +137,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0133-clone-graph](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0160-intersection-of-two-linked-lists) |
@@ -183,6 +185,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0144-binary-tree-preorder-traversal) |
@@ -220,6 +223,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0144-binary-tree-preorder-traversal) |
@@ -261,6 +265,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Matrix
 |  |
 | ------- |
