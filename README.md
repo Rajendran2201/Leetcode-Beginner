@@ -122,6 +122,7 @@
 | [0155-min-stack](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0232-implement-queue-using-stacks) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Queue
 |  |
 | ------- |
@@ -131,6 +132,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0020-valid-parentheses) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [3396-valid-word](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/3396-valid-word) |
 ## Hash Table
 |  |
@@ -193,6 +195,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0662-maximum-width-of-binary-tree) |
@@ -210,6 +213,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0662-maximum-width-of-binary-tree) |
@@ -231,6 +235,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0662-maximum-width-of-binary-tree) |
@@ -244,6 +249,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0199-binary-tree-right-side-view) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
