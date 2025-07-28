@@ -39,6 +39,7 @@
 | [0503-next-greater-element-ii](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0540-single-element-in-a-sorted-array) |
 | [0735-asteroid-collision](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0735-asteroid-collision) |
+| [0890-lemonade-change](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0890-lemonade-change) |
 | [0943-sum-of-subarray-minimums](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0943-sum-of-subarray-minimums) |
 | [1031-add-to-array-form-of-integer](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/1031-add-to-array-form-of-integer) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -72,6 +73,7 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0455-assign-cookies) |
+| [0890-lemonade-change](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0890-lemonade-change) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 ## Sorting
 |  |
