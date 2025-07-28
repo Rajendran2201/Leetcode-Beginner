@@ -27,6 +27,7 @@
 | [0039-combination-sum](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -72,6 +73,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0890-lemonade-change) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -93,6 +95,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0943-sum-of-subarray-minimums) |
 | [1761-count-sorted-vowel-strings](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/1761-count-sorted-vowel-strings) |
