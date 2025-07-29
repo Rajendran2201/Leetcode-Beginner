@@ -28,6 +28,7 @@
 | [0042-trapping-rain-water](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0075-sort-colors) |
@@ -81,6 +82,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0455-assign-cookies) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
