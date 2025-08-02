@@ -123,6 +123,7 @@
 | [0503-next-greater-element-ii](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0943-sum-of-subarray-minimums) |
+| [1078-remove-outermost-parentheses](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/1078-remove-outermost-parentheses) |
 | [2227-sum-of-subarray-ranges](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/2227-sum-of-subarray-ranges) |
 ## Design
 |  |
@@ -141,6 +142,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0020-valid-parentheses) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1078-remove-outermost-parentheses](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/1078-remove-outermost-parentheses) |
 | [3396-valid-word](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/3396-valid-word) |
 ## Hash Table
 |  |
