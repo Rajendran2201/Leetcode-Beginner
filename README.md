@@ -146,6 +146,7 @@
 | [0020-valid-parentheses](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0151-reverse-words-in-a-string) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0812-rotate-string](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/2032-largest-odd-number-in-string) |
 | [3396-valid-word](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/3396-valid-word) |
@@ -299,4 +300,8 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0222-count-complete-tree-nodes) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
