@@ -103,6 +103,7 @@
 | [0042-trapping-rain-water](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0055-jump-game) |
+| [0115-distinct-subsequences](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0943-sum-of-subarray-minimums) |
@@ -146,6 +147,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0020-valid-parentheses) |
+| [0115-distinct-subsequences](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0151-reverse-words-in-a-string) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0812-rotate-string](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0812-rotate-string) |
