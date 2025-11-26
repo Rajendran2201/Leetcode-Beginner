@@ -50,6 +50,7 @@
 | [1983-maximum-population-year](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/1983-maximum-population-year) |
 | [2227-sum-of-subarray-ranges](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/2227-sum-of-subarray-ranges) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3701-compute-alternating-sum](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/3701-compute-alternating-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -178,6 +179,7 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0735-asteroid-collision) |
+| [3701-compute-alternating-sum](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/3701-compute-alternating-sum) |
 ## Linked List
 |  |
 | ------- |
