@@ -249,6 +249,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -289,11 +290,13 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Graph
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0547-number-of-provinces) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Counting
 |  |
 | ------- |
@@ -336,4 +339,5 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0547-number-of-provinces) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/1319-number-of-operations-to-make-network-connected) |
 <!---LeetCode Topics End-->
