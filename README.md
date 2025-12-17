@@ -167,6 +167,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0496-next-greater-element-i) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Monotonic Stack
 |  |
@@ -248,6 +249,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Binary Tree
@@ -296,6 +298,7 @@
 | ------- |
 | [0133-clone-graph](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0547-number-of-provinces) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Counting
 |  |
@@ -339,5 +342,6 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0547-number-of-provinces) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Rajendran2201/Leetcode-Beginner/tree/master/1319-number-of-operations-to-make-network-connected) |
 <!---LeetCode Topics End-->
